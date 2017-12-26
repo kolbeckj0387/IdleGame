@@ -1,0 +1,11 @@
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\bin\Debug\netcoreapp2.0\PBBGWebApp.deps.json
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\bin\Debug\netcoreapp2.0\PBBGWebApp.runtimeconfig.json
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\bin\Debug\netcoreapp2.0\PBBGWebApp.runtimeconfig.dev.json
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\bin\Debug\netcoreapp2.0\PBBGWebApp.dll
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\bin\Debug\netcoreapp2.0\PBBGWebApp.pdb
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.AssemblyInfoInputs.cache
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.AssemblyInfo.cs
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.dll
+C:\Users\Broice\source\repos\PBBGWebApp\PBBGWebApp\obj\Debug\netcoreapp2.0\PBBGWebApp.pdb
